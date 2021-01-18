@@ -15,7 +15,7 @@ const passport = require('passport');
 // db.once('open', function () {
 //    console.log('Connected to MongoDB');
 //});
-
+//
 // Connect to db
 mongoose
     .connect(config.database)
